@@ -53,32 +53,29 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reddyeswaranush&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=reddyeswaranush&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=reddyeswaranush&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=reddyeswaranush&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddyeswaranush&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddyeswaranush&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
 
 ---
 
 ## 🎧 Spotify – Now Playing
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=314a5obns7adbmwcfwb3hap4i3by&cover_image=true&theme=default&background_color=0d1117&show_offline=false" />
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=314a5obns7adbmwcfwb3hap4i3by&cover_image=true&theme=novatorem&background_color=0d1117&show_offline=true" />
 </p>
-
-👉 Replace `YOUR_SPOTIFY_USER_ID` with your Spotify user id  
-(If you want, I’ll help you find it in 10 seconds)
 
 ---
 
 ## 📫 Connect With Me
 - 🔗 GitHub: https://github.com/reddyeswaranush  
-- 💼 LinkedIn: *(add your LinkedIn link)*  
+- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK-HERE  
 
 ---
 
