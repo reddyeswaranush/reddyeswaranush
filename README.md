@@ -92,8 +92,8 @@
 ## 🎧 Spotify – Now Playing
 
 <p align="center">
-  <a href="https://github.com/kittinan/spotify-github-profile">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ml77dihmweqxjfabtwpk7b32uq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false" />
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ml77dihmweqxjfabtwpk7b32uq&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ml77dihmweqxjfabtwpk7b32uq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false">
   </a>
 </p>
 
