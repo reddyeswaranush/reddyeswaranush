@@ -76,7 +76,7 @@
 ## 🏅 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/reddyeswaranush">
+  <a href="https://leetcode.com/u/eswar200">
     <img src="https://leetcard.jacoblin.cool/reddyeswaranush?theme=dark&font=Karma&ext=contest" />
   </a>
 </p>
