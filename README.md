@@ -76,14 +76,14 @@
 ## 🏅 Competitive Programming
 
 <p align="center">
-  <a href="https://leetcode.com/u/eswar200">
-    <img src="https://leetcard.jacoblin.cool/reddyeswaranush?theme=dark&font=Karma&ext=contest" />
+  <a href="https://leetcode.com/u/eswar200/">
+    <img src="https://leetcard.jacoblin.cool/eswar200?theme=dark&font=Karma&ext=contest" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://codeforces.com/profile/reddyeswaranush">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=reddyeswaranush&theme=dark" />
+  <a href="https://codeforces.com/profile/eswaranushreddy">
+    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=eswaranushreddy&theme=dark" />
   </a>
 </p>
 
@@ -92,7 +92,9 @@
 ## 🎧 Spotify – Now Playing
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=314a5obns7adbmwcfwb3hap4i3by&cover_image=true&theme=novatorem&background_color=0d1117&show_offline=true" />
+  <a href="https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ml77dihmweqxjfabtwpk7b32uq&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&bar_color=53b14f&bar_color_cover=false" />
+  </a>
 </p>
 
 ---
@@ -109,7 +111,7 @@
   <a href="https://leetcode.com/u/eswar200/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
-  <a href="https://codeforces.com/profile/reddyeswaranush">
+  <a href="https://codeforces.com/profile/eswaranushreddy">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
 </p>
