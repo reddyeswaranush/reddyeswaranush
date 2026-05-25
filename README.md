@@ -1,123 +1,24 @@
-<h1 align="center">Hi 👋, I'm Reddy Eswar Anush</h1>
-<h3 align="center">CSE Student @ NIT Agartala | Python • ML • Data Science • Open Source</h3>
+# 💫 About Me:
+## 🚀 About Me<br><br>Hi, I'm Reddy Eswar Anush 👋  <br>A passionate 3rd-year B.Tech CSE student at :contentReference[oaicite:0]{index=0} with strong interests in Python, Machine Learning, Data Science, Open Source, and Problem Solving.<br><br>- 💻 Solved 775+ problems on LeetCode and competitive programming platforms<br>- 🏆 SWoC 2026 Top Contributor & Rank 29 among 4000+ participants<br>- 🤖 Passionate about AI/ML, Data Analytics, NLP, and real-world problem solving<br>- 🌱 Currently exploring Open Source contributions, backend development, and scalable AI applications<br>- 🔥 Active GitHub contributor with merged PRs in multiple open-source repositories<br>- 🎯 Seeking opportunities in Python Development, AI/ML, Data Science, and Software Engineering<br><br>### 🛠️ Tech Stack<br><br>**Languages:** Python, C++, SQL  <br>**Libraries & Frameworks:** Pandas, NumPy, scikit-learn, TensorFlow, PyTorch, Flask  <br>**Tools:** Git, GitHub, VS Code, Jupyter Notebook  <br>**Domains:** Machine Learning, Data Analysis, NLP, Backend Development, Open Source<br><br>### 📌 Featured Projects<br><br>- 🦟 Dengue Prediction ML Model<br>- 📈 Stock News + AI Insights App<br>- 🎤 AI Interview Answer Evaluation System<br>- 📊 Data Analysis & Visualization Projects<br>- 🤖 Machine Learning & NLP Applications<br><br>### 🌐 Profiles<br><br>- GitHub: :contentReference[oaicite:1]{index=1}<br>- LinkedIn: :contentReference[oaicite:2]{index=2}<br><br>### ⚡ Fun Fact<br><br>I enjoy solving challenging DSA problems, contributing to open source, and building AI-powered applications that solve real-world problems.<br>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=reddyeswaranush&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
 
----
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/reddy_eswar_anush) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/reddy-eswar/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eswaranushreddy@gmail.com) 
 
-## 🚀 About Me
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=reddyeswaranush&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=reddyeswaranush&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=reddyeswaranush&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-- 🎓 **B.Tech CSE @ NIT Agartala** (2023–2027) | CGPA: 8.83
-- 🏆 **Selected for Amazon ML Summer School 2025** — top 3.5% of 85,000+ applicants
-- 🥇 **Ranked 29th out of 4,000+** participants in Social Winter of Code (SWoC) 2026
-- 🔭 Currently working on **Machine Learning & Data Science projects**
-- 🌱 Learning **ML Deployment, Selenium & exploring Open Source contributions**
-- 🎯 Aspiring **Data Science / ML Engineer**
-- 💻 **750+ LeetCode problems** | **350+ day streak** | Codeforces max rating **1229 (Pupil)**
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=reddyeswaranush&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
----
-
-## 🛠️ Tech Stack
-
-### 👨‍💻 Languages
-![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
-![SQL](https://img.shields.io/badge/SQL-black?style=for-the-badge&logo=mysql)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c)
-
-### 📚 Libraries & Frameworks
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn)
-![XGBoost](https://img.shields.io/badge/XGBoost-FF6600?style=for-the-badge&logo=xgboost)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib)
-![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv)
-
-### ⚙️ Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![VS Code](https://img.shields.io/badge/VS_Code-0078d7?style=for-the-badge&logo=visual-studio-code)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter)
-
-### 🤖 AI & APIs
-![Gemini](https://img.shields.io/badge/Gemini_API-4285F4?style=for-the-badge&logo=google)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface)
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
+[![](https://komarev.com/ghpvc/?username=reddyeswaranush&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 📌 Featured Projects
-
-| Project | Description | Tech |
-|--------|-------------|------|
-| 🦠 [Dengue Disease Spread Prediction](https://github.com/reddyeswaranush) | Top 15% among 16,000+ participants globally in an open ML challenge | Python, XGBoost, Scikit-learn |
-| 🤖 [AI Interview Evaluation System](https://github.com/reddyeswaranush) | AI system that scores spoken interview responses on relevance, clarity & completeness | Python, NLP, Gemini API, Flask |
-| 📉 [Customer Churn Prediction](https://github.com/reddyeswaranush) | Predicts customer churn using classification models | Python, Scikit-learn, Pandas |
-| 🧠 [BERT-based Data Analysis](https://github.com/reddyeswaranush) | NLP-based data analysis using BERT embeddings | Python, HuggingFace, NLP |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=reddyeswaranush&show_icons=true&theme=tokyonight&cache_seconds=1800" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=reddyeswaranush&theme=tokyonight&cache_seconds=1800" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddyeswaranush&layout=compact&theme=tokyonight&cache_seconds=1800" />
-</p>
-
----
-
-## 🏅 Competitive Programming
-
-<p align="center">
-  <a href="https://leetcode.com/u/eswar200/">
-    <img src="https://leetcard.jacoblin.cool/eswar200?theme=dark&font=Karma&ext=contest" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://codeforces.com/profile/eswaranushreddy">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=eswaranushreddy&theme=dark" />
-  </a>
-</p>
-
----
-
-## 🎧 Spotify – Now Playing
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31ml77dihmweqxjfabtwpk7b32uq&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31ml77dihmweqxjfabtwpk7b32uq&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=false">
-  </a>
-</p>
-
----
-
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/reddy-eswar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://github.com/reddyeswaranush">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://leetcode.com/u/eswar200/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="https://codeforces.com/profile/eswaranushreddy">
-    <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  ⭐ <b>Always learning. Always building. Always improving.</b>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
