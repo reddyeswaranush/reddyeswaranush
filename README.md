@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Reddy Eswar Anush</h1>
-<h3 align="center">CSE Student @ NIT Agartala | Python • ML • Data Science • Open Source</h3>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3b82f6,100:9333ea&height=250&section=header&text=Hi%20👋,%20I'm%20Reddy%20Eswar%20Anush&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CSE%20Student%20@%20NIT%20Agartala%20|%20Python%20•%20ML%20•%20Open%20Source&descAlignY=60&descSize=20"/>
+</p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=reddyeswaranush&label=Profile%20views&color=0e75b6&style=flat" />
@@ -64,9 +65,11 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=reddyeswaranush&show_icons=true&theme=tokyonight&cache_seconds=1800" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=reddyeswaranush&theme=tokyonight&cache_seconds=1800" />
 </p>
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=reddyeswaranush&layout=compact&theme=tokyonight&cache_seconds=1800" />
 </p>
@@ -105,12 +108,15 @@
   <a href="https://www.linkedin.com/in/reddy-eswar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
+  
   <a href="https://github.com/reddyeswaranush">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" />
   </a>
+  
   <a href="https://leetcode.com/u/eswar200/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
+  
   <a href="https://codeforces.com/profile/eswaranushreddy">
     <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
   </a>
